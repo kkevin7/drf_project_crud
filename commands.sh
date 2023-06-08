@@ -8,3 +8,5 @@ pip install django
 pip install djangorestframework
 
 django-admin startproject drf_simple_crud .
+
+python manage.py startapp projects
